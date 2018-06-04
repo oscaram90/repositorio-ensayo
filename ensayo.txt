@@ -9,6 +9,20 @@ Entre los paradigmas mas importante tenemos:
 1) Paradigma algorítmico o de estructura (Imperativo)
 2) Paradigma orientado a objetos (Declarativo)
 
+Cada uno de estos paradigmas tienen sus tecnicas para trabajar.
 
+Del Estruturado:
+*if
+*while
+*for
+*case
+*switch
 
+Del Orientado a Objetos:
+*herencia
+*cohesión
+*abstracción
+*polimorfismo
+*acoplamiento
+*encapsulamiento
 
