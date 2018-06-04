@@ -1,0 +1,14 @@
+Paradigmas
+
+Un paradigma en la programacion son propuestas tecnológicas adoptadas por la Comunidad de dedarrolladores, que han resultado a travez del 
+tiempo, en otras palabras se pueden decir que son bases, modelos al momento de realizar algun algoritmo.
+Existen variaciones, tanto simples como complejas. Cada una tienen sus propias características y tratan de solucionar los problemas 
+clásicos del desarrollo de software desde diferentes perspectivas y filosofías.
+
+Entre los paradigmas mas importante tenemos:
+1) Paradigma algorítmico o de estructura (Imperativo)
+2) Paradigma orientado a objetos (Declarativo)
+
+
+
+
