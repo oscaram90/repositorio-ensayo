@@ -6,8 +6,8 @@ Existen variaciones, tanto simples como complejas. Cada una tienen sus propias c
 clásicos del desarrollo de software desde diferentes perspectivas y filosofías.
 
 Entre los paradigmas mas importante tenemos:
-1) Paradigma algorítmico o de estructura (Imperativo)
-2) Paradigma orientado a objetos (Declarativo)
+1) Paradigma algorítmico o de proceso (Estructurado)
+2) Paradigma orientado a objetos (Objetos)
 
 Cada uno de estos paradigmas tienen sus tecnicas para trabajar.
 
@@ -25,4 +25,24 @@ Del Orientado a Objetos:
 *polimorfismo
 *acoplamiento
 *encapsulamiento
+
+Estos dos paradigmas, asi como los demas se han ido clasificando en grupos, y entre los mas importantes sobresalen:
+1) Paradigma Imperativo
+2) Paradigma Declarativo
+
+La principal diferencia entre ambos paradigmas es que en la programación imperativa se describe paso a paso un conjunto de instrucciones
+que han de ejecutarse con la finalidad de variar el estado del programa y resolver un problema para hallar una solución.
+Es decir, se describe un algoritmo en el que se detallan los pasos secuenciales necesarios a seguir para la resolución de un problema.
+
+Y en la programación declarativa solo se describe el problema pero no los pasos necesarios para llegar a su solución, 
+la cual es hallada mediante mecanismos internos de inferencia de información a partir de la descripción del problema en si.
+Dentro de este paradigma se encuentran unos subparadigmas llamados:
+*Funcional
+*Logicos
+
+Entonces, en la area de la programacion existen variedad de lenguajes para trabajar. Y tanto uno como de otro se auxilian de estos 
+paradigmas para la elaboracion del algoritmo deseado. Algunos lenguajes solo soportan ciertos paradigmas, o solo uno. Y existen casos 
+especiales que pueden soportar un gran numero de ellos.
+
+Algunos ejemplos:
 
