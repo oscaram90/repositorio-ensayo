@@ -37,8 +37,19 @@ Es decir, se describe un algoritmo en el que se detallan los pasos secuenciales 
 Y en la programación declarativa solo se describe el problema pero no los pasos necesarios para llegar a su solución, 
 la cual es hallada mediante mecanismos internos de inferencia de información a partir de la descripción del problema en si.
 Dentro de este paradigma se encuentran unos subparadigmas llamados:
+
 *Funcional
+    El objetivo es conseguir lenguajes expresivos y matemáticamente elegantes, en los que no sea necesario bajar al nivel de la máquina
+    para describir el proceso llevado a cabo por el programa, y evitar el concepto de estado del cómputo.
+
 *Logicos
+    Gira en torno al concepto de predicado, o relación entre elementos. Como su nombre lo menciona,
+    encontrar la logica, ya sea de hechos reales, agregandole reglas o restricciones previamente.
+
+*Restricciones
+    Es donde las relaciones entre las variables son expresadas en términos de restricciones (ecuaciones). 
+    Actualmente es usada como una tecnología de software para la descripción y resolución de problemas combinatorios particularmente difíciles,
+    especialmente en las áreas de planificación y programación de tareas (calendarización).
 
 Entonces, en la area de la programacion existen variedad de lenguajes para trabajar. Y tanto uno como de otro se auxilian de estos 
 paradigmas para la elaboracion del algoritmo deseado. Algunos lenguajes solo soportan ciertos paradigmas, o solo uno. Y existen casos 
@@ -46,3 +57,18 @@ especiales que pueden soportar un gran numero de ellos.
 
 Algunos ejemplos:
 
+*Scala: Imperativo, orientado a objetos, funcional
+*Erlang: Funcional (El de WhatsApp y Facebook)
+*Perl: Imperativo, orientado a objetos y funcional
+*PHP: Imperativo, orientado a objetos, funcional
+*JavaScript: Imperativo, orientado a objetos (prototipos) y funcional
+*Java: Imperativo, orientado a objetos
+*Python y Ruby: Imperativo, orientado a objetos, funcional
+*C++: Imperativo, orientado a objetos, funcional
+*C#: Imperativo, orientado a objetos, funcional (lambda)
+*Smalltalk: Solo orientado a objetos
+*Haskell: Solo el funcional
+*Oz: Soporta hasta 9 paradigmas de programacion
+*Prolog: Funcional(ampliamente usado en ambientes académicos)
+
+En conclusion uno como desarrollador tiene que tener presente todos estos paradigmas para enfocar cada uno al momento del problema.
